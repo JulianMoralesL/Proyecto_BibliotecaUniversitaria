@@ -1,7 +1,7 @@
 /**
  * =====================================================================
  *  PROYECTO: Biblioteca Universitaria
- *  ENTREGA 1 - SEMANA 3
+ *  ENTREGA 1 - SEMANA 3 - JULIANM
  * =====================================================================
  *
  * ¿QUÉ HACE ESTA CLASE?
