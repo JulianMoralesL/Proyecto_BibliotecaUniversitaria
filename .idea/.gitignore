@@ -1,0 +1,18 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Compilación
+out/
+target/
+build/
+
+# Java
+*.class
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
